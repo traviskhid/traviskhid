@@ -84,52 +84,52 @@ Software Engineer • AI Enthusiast • UI/UX Designer • Creative Technologist
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/ryan4621/Restaurant-Project">
-        <img src="https://github.com/ryan4621/ryan4621/blob/main/Screenshot%202025-12-30%20at%2002.44.05.png?raw=true"
-             alt="Restaurant project"
-             style="width:100%; height:200px; object-fit:cover;"/>
-      </a>
-      <br/>
-      <b>Boho UI Replica</b><br/>
-      <sub>Designed and developed a responsive restaurant website with dynamic menus, reservations, and optimized UI for all devices.</sub>        <br/>
-      <br/>
-      <a href="https://github.com/ryan4621/Restaurant-Project">
-          <img alt="Restaurant project" src="https://custom-icon-badges.demolab.com/badge/-Repo-blue?style=for-the-badge&logoColor=white&logo=repo" />
-      </a>
-      <br/>
-      <sub>Languages: HTML, CSS, JavaScript, PHP</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/ryan4621/E-commerce-project">
-        <img src="https://github.com/ryan4621/ryan4621/blob/main/Screenshot%202025-12-30%20at%2002.49.10.png?raw=true"
-             alt="E-commerce project"
-             style="width:100%; height:200px; object-fit:cover;"/>
-      </a>
-      <br/>
-      <b>Farfetch UI Replica</b><br/>
-      <sub>Built a full-featured e-commerce platform with product management, cart flow, secure checkout, and order handling.</sub><br/>
-      <br/>
-      <a href="https://github.com/ryan4621/E-commerce-project">
-          <img alt="e-commerce repo" src="https://custom-icon-badges.demolab.com/badge/-Repo-blue?style=for-the-badge&logoColor=white&logo=repo" />
-      </a>
-      <br/>
-      <sub>Languages: HTML, CSS, Boootstrap, JavaScript, Node.js</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/ryan4621/Real-Estate-Project">
+      <a href="https://github.com/traviskhid/Convo-App">
         <img src="https://github.com/ryan4621/ryan4621/blob/main/Screenshot%202025-12-30%20at%2002.42.42.png?raw=true"
-             alt="Real Estate Project"
+             alt="Convo App"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Real estate listing web app</b><br/>
-      <sub>Developed a scalable real estate listing application with property management, advanced filtering, and dynamic data rendering.</sub><br/>
+      <b>Convo App</b><br/>
+      <sub>Developed a Mobile App that connects Universities together along with their alumni.</sub><br/>
       <br/>
       <a href="https://github.com/ryan4621/Real-Estate-Project">
-          <img alt="real estate repo" src="https://custom-icon-badges.demolab.com/badge/-Repo-blue?style=for-the-badge&logoColor=white&logo=repo" />
+          <img alt="Mobile App Repo" src="https://custom-icon-badges.demolab.com/badge/-Repo-blue?style=for-the-badge&logoColor=white&logo=repo" />
       </a>
       <br/>
-      <sub>Languages: HTML, CSS, Bootstrap, JavaScript, Node.js</sub>
+      <sub>Languages: React, Typescript, Node.js, Vite</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/traviskhid/Convo-App">
+        <img src="https://github.com/ryan4621/ryan4621/blob/main/Screenshot%202025-12-30%20at%2002.42.42.png?raw=true"
+             alt="Convo App"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Convo App</b><br/>
+      <sub>Developed a Mobile App that connects Universities together along with their alumni.</sub><br/>
+      <br/>
+      <a href="https://github.com/ryan4621/Real-Estate-Project">
+          <img alt="Mobile App Repo" src="https://custom-icon-badges.demolab.com/badge/-Repo-blue?style=for-the-badge&logoColor=white&logo=repo" />
+      </a>
+      <br/>
+      <sub>Languages: React, Typescript, Node.js, Vite</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/traviskhid/Convo-App">
+        <img src="https://github.com/ryan4621/ryan4621/blob/main/Screenshot%202025-12-30%20at%2002.42.42.png?raw=true"
+             alt="Convo App"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Convo App</b><br/>
+      <sub>Developed a Mobile App that connects Universities together along with their alumni.</sub><br/>
+      <br/>
+      <a href="https://github.com/ryan4621/Real-Estate-Project">
+          <img alt="Mobile App Repo" src="https://custom-icon-badges.demolab.com/badge/-Repo-blue?style=for-the-badge&logoColor=white&logo=repo" />
+      </a>
+      <br/>
+      <sub>Languages: React, Typescript, Node.js, Vite</sub>
     </td>
   </tr>
 </table>
