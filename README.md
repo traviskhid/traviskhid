@@ -93,7 +93,7 @@ Software Engineer • AI Enthusiast • UI/UX Designer • Creative Technologist
       <b>Convo App</b><br/>
       <sub>Developed a Mobile App that connects Universities together along with their alumni.</sub><br/>
       <br/>
-      <a href="https://github.com/ryan4621/Real-Estate-Project">
+      <a href="https://github.com/traviskhid/Convo-App">
           <img alt="Mobile App Repo" src="https://custom-icon-badges.demolab.com/badge/-Repo-blue?style=for-the-badge&logoColor=white&logo=repo" />
       </a>
       <br/>
@@ -109,7 +109,7 @@ Software Engineer • AI Enthusiast • UI/UX Designer • Creative Technologist
       <b>Convo App</b><br/>
       <sub>Developed a Mobile App that connects Universities together along with their alumni.</sub><br/>
       <br/>
-      <a href="https://github.com/ryan4621/Real-Estate-Project">
+      <a href="https://github.com/traviskhid/Convo-App">
           <img alt="Mobile App Repo" src="https://custom-icon-badges.demolab.com/badge/-Repo-blue?style=for-the-badge&logoColor=white&logo=repo" />
       </a>
       <br/>
@@ -125,7 +125,7 @@ Software Engineer • AI Enthusiast • UI/UX Designer • Creative Technologist
       <b>Convo App</b><br/>
       <sub>Developed a Mobile App that connects Universities together along with their alumni.</sub><br/>
       <br/>
-      <a href="https://github.com/ryan4621/Real-Estate-Project">
+      <a href="https://github.com/traviskhid/Convo-App">
           <img alt="Mobile App Repo" src="https://custom-icon-badges.demolab.com/badge/-Repo-blue?style=for-the-badge&logoColor=white&logo=repo" />
       </a>
       <br/>
