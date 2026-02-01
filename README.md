@@ -1,24 +1,152 @@
-# 💫 About Me:
-Hey there! I’m a Software Developer, AI Enthusiast, Designer, and Photographer who loves building beautiful, functional, and intelligent digital experiences.<br><br>On the development side, I specialize in React Native, Tailwind CSS, and Swift, with experience across multiple programming languages and frameworks. I enjoy turning ideas into scalable, performant apps with clean architecture and great user experience.<br><br>As a UI/UX & Graphic Designer, I focus on creating intuitive interfaces and visually compelling designs using Figma, Canva, and Adobe Photoshop. I care deeply about usability, accessibility, and pixel-perfect execution.<br><br>I’m also passionate about photography and video editing, working with tools like Photoshop, Lightroom, CyberLink PowerDirector, and CapCut to craft high-quality visuals, edits, and cinematic content.<br><br>I thrive at the intersection of technology, design, and creativity, and I’m always exploring how AI can enhance products, workflows, and storytelling.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=100&section=header&text=Angelo%20Mensah&fontSize=50&fontAlignY=65" />
+</p>
 
+<h3 align="center">
+Software Engineer • AI Enthusiast • UI/UX Designer • Creative Technologist
+</h3>
+
+<p align="center">
+  <a href="https://github.com/traviskhid">
+    <img src="https://komarev.com/ghpvc/?username=traviskhid&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
+
+---
+
+
+## Core Focus Areas
+
+- Mobile application development (iOS & cross-platform)
+- UI/UX engineering and design systems
+- AI-powered features and workflows
+- Performance, scalability, and clean architecture
+- Visual storytelling and creative tooling
+
+---
+
+## Tech Stack
+
+### 🧠 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,swift,dart,java" />
+</p>
+
+### 🎨 Frontend & Mobile
+<p>
+ <img src="https://skillicons.dev/icons?i=react,flutter,tailwind" />
+</p>
+
+### 🔥 Backend / BaaS / Hosting
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,firebase,supabase,vercel,netlify,apache" />
+</p>
+
+### 🛠️ Tooling & Dev
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,npm,vitest" />
+</p>
+
+### 🎨 Design & Creative
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,premiere,illustrator,blender" />
+</p>
+
+### 🎮 Game / 3D
+<p>
+  <img src="https://skillicons.dev/icons?i=unreal" />
+</p>
+
+### Creative Tools
+- Adobe Lightroom  
+- Adobe Photoshop  
+- CyberLink PowerDirector  
+- CapCut  
+
+---
+
+
+## Currently Exploring
+
+- Advanced mobile architecture patterns  
+- AI-assisted product experiences  
+- Design systems and motion UI  
+- Developer experience optimization  
+
+---
+
+
+
+  
+
+## 🧑‍💻 Personal Projects
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/ryan4621/Restaurant-Project">
+        <img src="https://github.com/ryan4621/ryan4621/blob/main/Screenshot%202025-12-30%20at%2002.44.05.png?raw=true"
+             alt="Restaurant project"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Boho UI Replica</b><br/>
+      <sub>Designed and developed a responsive restaurant website with dynamic menus, reservations, and optimized UI for all devices.</sub>        <br/>
+      <br/>
+      <a href="https://github.com/ryan4621/Restaurant-Project">
+          <img alt="Restaurant project" src="https://custom-icon-badges.demolab.com/badge/-Repo-blue?style=for-the-badge&logoColor=white&logo=repo" />
+      </a>
+      <br/>
+      <sub>Languages: HTML, CSS, JavaScript, PHP</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/ryan4621/E-commerce-project">
+        <img src="https://github.com/ryan4621/ryan4621/blob/main/Screenshot%202025-12-30%20at%2002.49.10.png?raw=true"
+             alt="E-commerce project"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Farfetch UI Replica</b><br/>
+      <sub>Built a full-featured e-commerce platform with product management, cart flow, secure checkout, and order handling.</sub><br/>
+      <br/>
+      <a href="https://github.com/ryan4621/E-commerce-project">
+          <img alt="e-commerce repo" src="https://custom-icon-badges.demolab.com/badge/-Repo-blue?style=for-the-badge&logoColor=white&logo=repo" />
+      </a>
+      <br/>
+      <sub>Languages: HTML, CSS, Boootstrap, JavaScript, Node.js</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/ryan4621/Real-Estate-Project">
+        <img src="https://github.com/ryan4621/ryan4621/blob/main/Screenshot%202025-12-30%20at%2002.42.42.png?raw=true"
+             alt="Real Estate Project"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Real estate listing web app</b><br/>
+      <sub>Developed a scalable real estate listing application with property management, advanced filtering, and dynamic data rendering.</sub><br/>
+      <br/>
+      <a href="https://github.com/ryan4621/Real-Estate-Project">
+          <img alt="real estate repo" src="https://custom-icon-badges.demolab.com/badge/-Repo-blue?style=for-the-badge&logoColor=white&logo=repo" />
+      </a>
+      <br/>
+      <sub>Languages: HTML, CSS, Bootstrap, JavaScript, Node.js</sub>
+    </td>
+  </tr>
+</table>
+
+<br><br/>
+
+*Open to impactful opportunities, collaborations, and challenging problems.*
+
+
+💼 **Available for freelance work**
+
+---
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aWVSxAB77) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dayumitstravis) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/angelo-mensah-0628b5314) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/traviskhiid) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/traviskhid) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@_.traviskhid) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_traviskhid) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yghlitz0@gmail.com) 
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat&logo=adobeindesign&logoColor=FF3366) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=flat&logo=vitest&logoColor=FCC72B) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=traviskhid&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=traviskhid&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=traviskhid&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=traviskhid&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=traviskhid&icon=2&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+⭐ If you’re looking for a reliable full-stack developer who delivers quality results, let’s work together.
